@@ -1,0 +1,25 @@
+ @font-face {
+    font-family: 'Lastica';
+    src: 
+    url('./fonts/Lastica.ttf') format('truetype');
+    font-weight: heavy;
+    font-style: heavy;
+  }
+
+  @font-face {
+    font-family: 'Mokoto';
+    src: 
+    url('./fonts/Mokoto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Savedbyzero';
+    src: 
+    url('./fonts/Savedbyzero.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+ 
+   
